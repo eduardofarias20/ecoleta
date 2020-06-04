@@ -162,7 +162,7 @@ const CreatePoint = () => {
                     Voltar para home
                 </Link>
             </header>
-
+ 
             <form onSubmit={handleSubmit}>
                 <h1>Cadastro do <br/> ponto de coleta</h1>
                 <fieldset>

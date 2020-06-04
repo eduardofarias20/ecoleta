@@ -13,7 +13,7 @@ import { LeafletMouseEvent } from 'leaflet';
 
 //array ou objeto: manualmente informar o tipo da variavel
 
-interface Item {
+interface Item { 
     id: number;
     name: string;
     image_url: string;

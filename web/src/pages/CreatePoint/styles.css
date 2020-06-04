@@ -16,7 +16,7 @@
   #page-create-point header a {
     color: var(--title-color);
     font-weight: bold;
-    text-decoration: none;
+    text-decoration: none; 
   
     display: flex;
     align-items: center;

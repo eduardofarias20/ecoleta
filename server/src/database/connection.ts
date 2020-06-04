@@ -13,6 +13,6 @@ export default connection;
 
 // Migrations = Historico de banco de dados
 
-// create table points
+// create table points 
 // create table users
 

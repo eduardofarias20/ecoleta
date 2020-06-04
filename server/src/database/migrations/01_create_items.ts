@@ -12,4 +12,4 @@ export async function up(knex: Knex) {
 export async function down(knex: Knex) {
     //deletar a tabela(voltar atrás)
     return knex.schema.dropTable('items');
-};
+}; 
